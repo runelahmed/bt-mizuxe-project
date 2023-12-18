@@ -32,6 +32,14 @@ body{
     }
         
 }
+.mb-resp{
+    margin-bottom: 1rem;
+}
+#newsletter{
+    .mb-resp{
+        margin-bottom: 1rem;
+    }
+}
 
 #bg-primary{
     background-color: #3292a6;
