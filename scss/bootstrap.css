@@ -5756,7 +5756,7 @@ textarea.form-control-lg {
   color: inherit !important; }
 
 .bg-primary {
-  background-color: #3292a6 !important; }
+  background-color: #0d6efd !important; }
 
 .bg-secondary {
   background-color: #6c757d !important; }
@@ -8361,3 +8361,5 @@ textarea.form-control-lg {
 
   .d-print-none {
     display: none !important; } }
+
+/*# sourceMappingURL=bootstrap.css.map */
